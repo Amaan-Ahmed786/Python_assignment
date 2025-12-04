@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Got",
+    "author": "Charles",
+    "isbn": "123",
+    "status": "available"
+  },
+  {
+    "title": "1984",
+    "author": "george orwell",
+    "isbn": "3456",
+    "status": "available"
+  }
+]
